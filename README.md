@@ -1,4 +1,4 @@
-# Circular Log List
+# Lista de Logs
 
 Uma implementação em Java de uma lista circular para armazenamento e gerenciamento de logs em formato string.
 
