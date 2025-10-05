@@ -87,4 +87,31 @@ Ideal para sistemas que precisam manter uma amostra limitada dos logs mais recen
 
 ---
 
-**Desenvolvido por**: [GabrielGit10110](https://github.com/GabrielGit10110)
+## 📝 Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+## 👨‍💻 Autor
+
+**Gabriel** - [GabrielGit10110](https://github.com/GabrielGit10110)
+
+- GitHub: [@GabrielGit10110](https://github.com/GabrielGit10110)
+
+## 🌟 Agradecimentos
+
+- Inspirado nas minhas aulas de estruturas de dados da faculdade
+- Comunidade Java por boas práticas
+
+---
+
+**⭐ Não esqueça de dar uma estrela no repositório se achou útil!**
+
+---
+
+<div align="center">
+  
+Feito com ❤️ e ☕ por Gabriel
+
+[⬆ Voltar ao topo](#-estruturas-de-dados-em-java)
+
+</div>
