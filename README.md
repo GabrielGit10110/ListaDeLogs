@@ -1,5 +1,9 @@
 # Lista de Logs
 
+[![Java](https://img.shields.io/badge/Java-17-blue.svg)](https://java.com)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Ativo-brightgreen.svg)](https://github.com/GabrielGit10110/data-structures-java)
+
 Uma implementação em Java de uma lista circular para armazenamento e gerenciamento de logs em formato string.
 
 ## 📋 Descrição
