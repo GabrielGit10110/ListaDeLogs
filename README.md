@@ -91,6 +91,11 @@ Ideal para sistemas que precisam manter uma amostra limitada dos logs mais recen
 
 ---
 
+## 📚 Documentação
+
+A documentação completa da API com Javadoc está disponível em:  
+🔗 **[GitHub Pages - DataStructures Documentation](https://gabrielgit10110.github.io/ListaDeLogs/)**
+
 ## 📝 Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
