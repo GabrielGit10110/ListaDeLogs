@@ -63,6 +63,38 @@ Este projeto implementa uma lista circular duplamente encadeada para armazenar l
 - **Localização**: `view/LogList.java`
 - **Função**: Ponto de entrada da aplicação
 
+## 📦 Instalação como Biblioteca
+**1. Compilar para JAR**
+```bash
+# Navegar até o diretório do projeto
+cd ListaDeLogs
+
+# Compilar as classes
+javac -d bin src/model/estrutura/LogNode.java src/model/estrutura/LogList.java
+
+# Criar arquivo JAR
+jar cf lib/ListaDeLogs.jar -C bin .
+```
+
+**2. Usando Maven (opcional)**
+Adicione ao seu pom.xml se publicar no Maven Central:
+
+```bash
+xml
+<dependency>
+    <groupId>com.gabriel</groupId>
+    <artifactId>lista-de-logs</artifactId>
+    <version>1.0.0</version>
+</dependency>
+```
+
+**3. Adicionar ao Seu Projeto**
+
+```bash
+javac -cp lib/ListaDeLogs.jar MeuProjeto.java
+java -cp .:lib/ListaDeLogs.jar MeuProjeto
+```
+
 ## 🚀 Como Usar
 
 ### Adicionando Logs
