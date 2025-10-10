@@ -34,6 +34,7 @@ Este projeto implementa uma lista circular duplamente encadeada para armazenar l
     ├───model
     │   ├───estrutura
     │   │   └───LogNode.java
+    │   │   └───LogList.java
     │   └───negocio
     └───view
         └───LogList.java
