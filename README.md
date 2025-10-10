@@ -49,7 +49,7 @@ Este projeto implementa uma lista circular duplamente encadeada para armazenar l
   - Referências para o próximo e anterior nó
 
 ### LogList
-- **Localização**: `controller/LogList.java`
+- **Localização**: `model/estrutura/LogList.java`
 - **Função**: Implementa a lógica da lista circular com métodos para:
   - Adicionar logs (`addLogs`)
   - Ler logs (`readLogs`)
